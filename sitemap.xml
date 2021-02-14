@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://shawfy.top/about/index.html</loc>
+    <loc>https://shawfy.top/contact/index.html</loc>
     
-    <lastmod>2021-02-14T02:59:21.432Z</lastmod>
+    <lastmod>2021-02-14T04:55:02.760Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://shawfy.top/contact/index.html</loc>
+    <loc>https://shawfy.top/about/index.html</loc>
     
-    <lastmod>2021-02-14T02:42:15.901Z</lastmod>
+    <lastmod>2021-02-14T02:59:21.432Z</lastmod>
     
   </url>
   
@@ -37,13 +37,6 @@
   </url>
   
   <url>
-    <loc>https://shawfy.top/categories/index.html</loc>
-    
-    <lastmod>2021-01-19T14:08:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://shawfy.top/archives/index.html</loc>
     
     <lastmod>2021-01-19T14:08:59.000Z</lastmod>
@@ -52,6 +45,13 @@
   
   <url>
     <loc>https://shawfy.top/tags/index.html</loc>
+    
+    <lastmod>2021-01-19T14:08:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://shawfy.top/categories/index.html</loc>
     
     <lastmod>2021-01-19T14:08:59.000Z</lastmod>
     
