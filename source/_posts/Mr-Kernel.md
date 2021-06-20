@@ -8,7 +8,7 @@ date: 2021-06-20 18:00:27
 password:
 summary:
 tags:
-categories:
+categories: 漫想
 ---
 
 # 一
